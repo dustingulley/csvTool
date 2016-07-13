@@ -1,0 +1,21 @@
+c:\users\randy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.exe.config
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.exe
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.pdb
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.exe
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.pdb
+C:\Users\Dustin\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.exe.config
+C:\Users\Dustin\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.exe
+C:\Users\Dustin\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.pdb
+C:\Users\Dustin\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dustin\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.exe
+C:\Users\Dustin\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.pdb
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.exe.config
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.exe
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.pdb

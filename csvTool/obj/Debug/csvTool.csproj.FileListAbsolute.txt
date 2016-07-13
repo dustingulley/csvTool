@@ -1,0 +1,9 @@
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.exe.config
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.exe
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\CSVTool.pdb
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\obj\Debug\csvTool.csprojResolveAssemblyReference.cache
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.exe
+C:\Users\Dustin\Documents\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSVTool.pdb
+C:\Users\Dustin\Documents\csvTool\csvTool\bin\Debug\CSVTool.exe.config
+C:\Users\Dustin\Documents\csvTool\csvTool\obj\Debug\CSVTool.exe
+C:\Users\Dustin\Documents\csvTool\csvTool\obj\Debug\CSVTool.pdb
